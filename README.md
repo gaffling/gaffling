@@ -19,3 +19,5 @@
 
 <!-- VISITOR COUNTER -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=gaffling&label=Profile%20views&color=0e75b6&style=flat" alt="gaffling" /> </p>
+
+###### Idea: https://rahuldkjain.github.io/gh-profile-readme-generator/
